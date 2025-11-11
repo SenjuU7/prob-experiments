@@ -1,3 +1,11 @@
-fn main() {
-    println!("Hello, world!");
+use polars::error::PolarsResult;
+
+mod math;
+mod utils;
+
+fn main() -> PolarsResult<()>{
+    math::load_data::example();
+
+
+    Ok(())
 }
