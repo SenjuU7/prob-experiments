@@ -22,5 +22,5 @@ Focus areas include:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/prob-experiments.git
+git clone https://github.com/<SenjuU7>/prob-experiments.git
 cd prob-experiments
